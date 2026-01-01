@@ -13,24 +13,7 @@ A beautiful, responsive portfolio website built with vanilla **HTML, CSS, and Ja
 
 ## Quick Start
 
-### Option 1: Using Python (Recommended)
-```bash
-python server.py
-```
-This will automatically open your portfolio in the browser at `http://localhost:3000`
 
-### Option 2: Using Node.js
-```bash
-npx http-server
-```
-
-### Option 3: Using PHP
-```bash
-php -S localhost:3000
-```
-
-### Option 4: Direct File Access
-Simply open `index.html` in your browser (some features may not work due to CORS restrictions)
 
 ## Project Structure
 
